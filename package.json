@@ -2,7 +2,7 @@
   "name": "ant-motion",
   "version": "1.5.1",
   "dependencies": {
-    "antd": "~2.7.0",
+    "antd": "~2.9.2",
     "autoresponsive-react": "1.1.x",
     "deepcopy": "^0.6.3",
     "enquire.js": "^2.1.1",
