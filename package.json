@@ -10,7 +10,7 @@
     "jsonml-to-react-component": "^0.2.2",
     "jsonml.js": "^0.1.0",
     "jszip": "^3.0.0",
-    "less-loader": "^2.2.3",
+    "less-loader": "^6.0.0",
     "raw-js-loader": "^1.4.0",
     "raw-loader": "^0.5.1",
     "rc-animate": "~2.3.0",
